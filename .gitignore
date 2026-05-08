@@ -1,0 +1,18 @@
+# Virtual Environment
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Dataset
+dataset/
+
+# Trained Models
+models/*.h5
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# VS Code Settings
+.vscode/
